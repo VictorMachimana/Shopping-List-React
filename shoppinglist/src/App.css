@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  left: 30%;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.form-inline {
+  margin-left: 38px;
+}
+
+.Content {
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px;
+  background-color: rgba(240, 255, 103, 0.76);
+  padding: 18px 38px 18px 0;
+  border-radius: 12px;
+}
